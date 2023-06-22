@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL', 'http://localhost:8080/webfilm/public');
+define('BASEURL', 'http://localhost/webfilm/public');
 
 // DB
 define('DB_HOST', 'localhost');
