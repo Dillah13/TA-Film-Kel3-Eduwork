@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL', 'http://localhost/webfilm/public');
+define('BASEURL', 'http://localhost/TA-Film-Kel3-Eduwork/public');
 
 // DB
 define('DB_HOST', 'localhost');
